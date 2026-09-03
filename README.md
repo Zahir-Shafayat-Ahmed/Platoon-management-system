@@ -1,2 +1,2 @@
-# Platoon-management-system-2
+# Platoon-management-system
 back end of a basic management system project
